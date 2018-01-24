@@ -1,0 +1,12 @@
+Nome 	Sobrenome
+6	6
+E-mail	Celular
+6	6
+
+Cidade 	Estado	CEP
+6	4	2
+
+Valor	Nota Fiscal
+
+6	6
+
